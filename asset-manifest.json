@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PersonalBudgetTracker/static/css/main.0f81b216.css",
+    "main.js": "/PersonalBudgetTracker/static/js/main.0802c0d3.js",
+    "static/js/787.d4aba7ab.chunk.js": "/PersonalBudgetTracker/static/js/787.d4aba7ab.chunk.js",
+    "static/media/emptyCart.png": "/PersonalBudgetTracker/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "index.html": "/PersonalBudgetTracker/index.html",
+    "main.0f81b216.css.map": "/PersonalBudgetTracker/static/css/main.0f81b216.css.map",
+    "main.0802c0d3.js.map": "/PersonalBudgetTracker/static/js/main.0802c0d3.js.map",
+    "787.d4aba7ab.chunk.js.map": "/PersonalBudgetTracker/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f81b216.css",
+    "static/js/main.0802c0d3.js"
+  ]
+}
